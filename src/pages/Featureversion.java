@@ -2,7 +2,8 @@ package pages;
 
 public class Featureversion {
 
-	publi void test() {
+	public void test() {
 		System.out.println("This is feature v1");
+		System.out.println("This is feature v2");
 	}
 }
