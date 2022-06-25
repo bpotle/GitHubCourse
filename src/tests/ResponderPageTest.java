@@ -5,12 +5,14 @@ public class ResponderPageTest {
 	public void test() {
 
 		System.out.println("this is dev01");
-		System.out.println("this is dev 01 welcome");
+		System.out.println("this is updated by dev 02 welcome");
 
-		int a=100;
-		int sal=12;
+		int a=3000;
+		int sal=3000;
 		int b=a+sal;
 		System.out.println("total is: "+b);
+		System.out.println("this is updated by  dev 02 now...");
+		System.out.println("Welcome to world of constant change......");
 		
 
 		int l=2;
