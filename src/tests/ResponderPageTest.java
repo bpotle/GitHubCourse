@@ -11,6 +11,12 @@ public class ResponderPageTest {
 		int sal=12;
 		int b=a+sal;
 		System.out.println("total is: "+b);
+		
+		int l=2;
+		int m=20;
+		int n=l*m;
+		System.out.println("total is: "+m);
+		System.out.println("This changes are done by dev01");
 
 	}
 	
