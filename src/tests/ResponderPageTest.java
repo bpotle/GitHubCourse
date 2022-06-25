@@ -5,16 +5,7 @@ public class ResponderPageTest {
 	public void test() {
 
 		System.out.println("this is dev01");
-<<<<<<< Updated upstream
-		System.out.println("this is updated by dev 02 welcome");
 
-		int a=3000;
-		int sal=3000;
-		int b=a+sal;
-		System.out.println("total is: "+b);
-		System.out.println("this is updated by  dev 02 now...");
-		System.out.println("Welcome to world of constant change......");
-=======
 		System.out.println("this is updated by  dev 01 welcome");
 
 		int a=200;
@@ -23,8 +14,6 @@ public class ResponderPageTest {
 		System.out.println("total is: "+b);
 		System.out.println("this is updated by  dev 01 now...");
 		System.out.println("Welcome to world of constant change");
->>>>>>> Stashed changes
-		
 
 		int l=2;
 		int m=20;
