@@ -12,11 +12,14 @@ public class ResponderPageTest {
 		int b=a+sal;
 		System.out.println("total is: "+b);
 		
+
 		int l=2;
 		int m=20;
 		int n=l*m;
 		System.out.println("total is: "+m);
 		System.out.println("This changes are done by dev01");
+		System.out.println("Dev 02 changes removed and dev01 changes KEPT");
+
 
 	}
 	
