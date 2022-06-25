@@ -12,6 +12,6 @@ public class PricingPage {
 		int x=222;
 		int y=4;
 		int z=x+y;
-		System.out.println("Total done by Devloper 1 is: "+z);
+		System.out.println("Total done by Devloper 2 is: "+z);
 	}
 }
